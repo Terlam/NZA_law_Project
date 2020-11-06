@@ -19,7 +19,10 @@ redbox on what page
 
 
 <!-- Stephanie's Work -->
-redbox on who page
+Red box/content on who & what page.
+Changed the scale of the red box for each page to fit text.
+Solved zoom in/out issue regarding scale of red
+CAN YOU READ THIS
 
 
 <!-- Monica's Work-->
